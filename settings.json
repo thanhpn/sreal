@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "type": "grid",
+      "data": [
+        {
+          "id": 1,
+          "title": "Cửa hàng",
+          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_1.png",
+          "url": "",
+          "setting_screen": ""
+        },
+        {
+          "id": 2,
+          "title": "Đơn hàng",
+          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_2.png",
+          "url": "",
+          "setting_screen": ""
+        },
+        {
+          "id": 3,
+          "title": "Đội ngũ",
+          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_3.png",
+          "url": "",
+          "setting_screen": ""
+        },
+        {
+          "id": 4,
+          "title": "Khách hàng",
+          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_4.png",
+          "url": "",
+          "setting_screen": ""
+        },
+        {
+          "id": 5,
+          "title": "Đào tạo",
+          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_5.png",
+          "url": "",
+          "setting_screen": ""
+        },
+        {
+          "id": 6,
+          "title": "Đăng ký CTV",
+          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_6.png",
+          "url": "",
+          "setting_screen": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "list",
+      "data": [
+        {
+          "id": 1,
+          "title": "Support",
+          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_7.png",
+          "url": "",
+          "setting_screen": ""
+        },
+        {
+          "id": 2,
+          "title": "TermOfUse",
+          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_8.png",
+          "url": "",
+          "setting_screen": ""
+        },
+        {
+          "id": 3,
+          "title": "Setting",
+          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_9.png",
+          "url": "",
+          "setting_screen": ""
+        },
+        {
+          "id": 4,
+          "title": "Logout",
+          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_10.png",
+          "url": "",
+          "setting_screen": ""
+        }
+      ]
+    }
+  ]
