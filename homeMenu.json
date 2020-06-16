@@ -32,13 +32,13 @@
 			{
 				"id": 4,
 				"title": "Đội nhóm",
-				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_edu.png",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_group.png",
 				"url": "https://wallet.socialinvest.asia/member"
 			},
 			{
 				"id": 5,
 				"title": "KYC",
-				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_KYC.png",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_kyc.png",
 				"url": "https://wallet.socialinvest.asia/wallet/setting"
 			}
 		]
@@ -70,7 +70,7 @@
 			{
 				"id": 4,
 				"title": "Giao dịch",
-				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_4.png",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_3.png",
 				"url": "https://wallet.socialinvest.asia/exchange"
 			}
 		]
