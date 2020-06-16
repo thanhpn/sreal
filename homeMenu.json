@@ -9,19 +9,19 @@
 				"id": 0,
 				"title": "Dự án",
 				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_8.png",
-				"url": "http://sreal.socialid.vn/voucher"
+				"url": "https://sreal.socialid.vn/voucher"
 			},
 			{
 				"id": 1,
 				"title": "Mua sắm",
 				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_9.png",
-				"url": ""
+				"url": "https://sshop.socialid.vn/voucher"
 			},
 			{
 				"id": 2,
 				"title": "Du lịch",
 				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_10.png",
-				"url": ""
+				"url": "https://stravel.socialid.vn/voucher"
 			},
 			{
 				"id": 3,
@@ -53,7 +53,7 @@
 				"id": 0,
 				"title": "Tài sản",
 				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_0.png",
-				"url": ""
+				"url": "https://wallet.socialinvest.asia/order"
 			},
 			{
 				"id": 1,
@@ -68,10 +68,16 @@
 				"url": "https://wallet.socialinvest.asia/voucher/si-saving-c2933"
 			},
 			{
-				"id": 4,
+				"id": 3,
 				"title": "Giao dịch",
 				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_3.png",
 				"url": "https://wallet.socialinvest.asia/exchange"
+			},
+			{
+				"id": 4,
+				"title": "Báo cáo",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_3.png",
+				"url": "https://wallet.socialinvest.asia/member"
 			}
 		]
 	},
