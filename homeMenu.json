@@ -1,0 +1,150 @@
+[
+	{
+		"id": 1,
+		"type": "grid",
+		"title": "",
+		"numColumns": 4,
+		"menus": [
+			{
+				"id": 0,
+				"title": "Tài sản",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_0.png",
+				"url": ""
+			},
+			{
+				"id": 1,
+				"title": "Đầu tư",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_1.png",
+				"url": ""
+			},
+			{
+				"id": 2,
+				"title": "Tiết kiệm",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_2.png",
+				"url": ""
+			},
+			{
+				"id": 3,
+				"title": "Cổ phần",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_3.png",
+				"url": ""
+			},
+			{
+				"id": 4,
+				"title": "Giao dịch",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_4.png",
+				"url": ""
+			},
+			{
+				"id": 5,
+				"title": "Báo cáo",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_5.png",
+				"url": ""
+			},
+			{
+				"id": 6,
+				"title": "KYC",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_6.png",
+				"url": ""
+			},
+			{
+				"id": 7,
+				"title": "Explore",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_7.png",
+				"url": ""
+			}
+		]
+	},
+	{
+		"id": 2,
+		"type": "grid",
+		"title": "TIỆN ÍCH TIÊU DÙNG",
+		"numColumns": 4,
+		"menus": [
+			{
+				"id": 0,
+				"title": "Nhà đất",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_8.png"
+			},
+			{
+				"id": 1,
+				"title": "Mua sắm",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_9.png"
+			},
+			{
+				"id": 2,
+				"title": "Du lịch",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_10.png"
+			},
+			{
+				"id": 3,
+				"title": "Vận tải",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_11.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"type": "grid",
+		"title": "TIỆN ÍCH THANH TOÁN",
+		"numColumns": 4,
+		"menus": [
+			{
+				"id": 0,
+				"title": "ZALOPAY",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_12.png"
+			},
+			{
+				"id": 1,
+				"title": "Momo",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_13.png"
+			},
+			{
+				"id": 2,
+				"title": "ViettelPay",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_14.png"
+			},
+			{
+				"id": 3,
+				"title": "AirPay",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_15.png"
+			},
+			{
+				"id": 4,
+				"title": "Thẻ ATM nội địa",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_16.png"
+			},
+			{
+				"id": 5,
+				"title": "Thẻ quốc tế",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_17.png"
+			},
+			{
+				"id": 6,
+				"title": "Chuyển khoản",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_18.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"type": "banner",
+		"title": "",
+		"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/banner_1.png",
+		"url": ""
+	},
+	{
+		"id": 5,
+		"type": "banner",
+		"title": "",
+		"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/banner_2.png",
+		"url": ""
+	},
+	{
+		"id": 6,
+		"type": "banner",
+		"title": "",
+		"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/banner_3.png",
+		"url": ""
+	}
+]
