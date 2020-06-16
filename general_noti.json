@@ -1,84 +1,45 @@
 [
-    {
-      "id": 1,
-      "type": "grid",
-      "data": [
-        {
-          "id": 1,
-          "title": "Cửa hàng",
-          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_1.png",
-          "url": "",
-          "setting_screen": ""
-        },
-        {
-          "id": 2,
-          "title": "Đơn hàng",
-          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_2.png",
-          "url": "",
-          "setting_screen": ""
-        },
-        {
-          "id": 3,
-          "title": "Đội ngũ",
-          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_3.png",
-          "url": "",
-          "setting_screen": ""
-        },
-        {
-          "id": 4,
-          "title": "Khách hàng",
-          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_4.png",
-          "url": "",
-          "setting_screen": ""
-        },
-        {
-          "id": 5,
-          "title": "Đào tạo",
-          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_5.png",
-          "url": "",
-          "setting_screen": ""
-        },
-        {
-          "id": 6,
-          "title": "Đăng ký CTV",
-          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_6.png",
-          "url": "",
-          "setting_screen": ""
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "type": "list",
-      "data": [
-        {
-          "id": 1,
-          "title": "Support",
-          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_7.png",
-          "url": "",
-          "setting_screen": ""
-        },
-        {
-          "id": 2,
-          "title": "TermOfUse",
-          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_8.png",
-          "url": "",
-          "setting_screen": ""
-        },
-        {
-          "id": 3,
-          "title": "Setting",
-          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_9.png",
-          "url": "",
-          "setting_screen": ""
-        },
-        {
-          "id": 4,
-          "title": "Logout",
-          "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_10.png",
-          "url": "",
-          "setting_screen": ""
-        }
-      ]
-    }
-  ]
+  {
+		"title":"Phạm Ngọc Thành vừa livestream giới thiệu dự án Golden Star",
+		"subTitle": "1h ago",
+		"thumb_url": "https://scontent.fhan3-2.fna.fbcdn.net/v/t1.0-9/72712929_2934572669889668_9151658469697257472_n.jpg?_nc_cat=103&_nc_sid=85a577&_nc_oc=AQmeiSMXQJweMSwPFd2xPGZ3zkewyZQ_ySWwDwAOoAAxXbDAaOitVRf_-lF2_Fm_0uI&_nc_ht=scontent.fhan3-2.fna&oh=164f3270fa63804ab84c69693de3d807&oe=5EFF198B",
+		"profile_url" : ""
+  },
+  {
+		"title":"Đoàn Trọng Hiếu vừa chốt đơn hàng số 886",
+		"subTitle": "4h ago",
+		"thumb_url": "https://portal.rever.vn/user/1561872469987000/avatar",
+		"profile_url" : "https://sreal.socialid.vn/user/profile?id=321"
+  },
+  {
+		"title":"Vũ Thị Thanh Thuỷ đã chia sẻ bài viết của bạn",
+		"subTitle": "6h ago",
+		"thumb_url": "https://portal.rever.vn/user/1566444209924000/avatar",
+		"profile_url" : "https://sreal.socialid.vn/user/profile?id=320"
+	},
+	{
+		"title":"Mai Chiến Công vừa thông báo kết qủa bốc thăm quà tặng dự án Legend Park",
+		"subTitle": "6h ago",
+		"thumb_url": "https://portal.rever.vn/user/1563724417999000/avatar",
+		"profile_url" : "https://sreal.socialid.vn/user/profile?id=319"
+	},
+	{
+		"title":"Trần Đình Duy đã chia sẻ bài viết của bạn",
+		"subTitle": "6h ago",
+		"thumb_url": "https://portal.rever.vn/user/gg-100516726181486350444/avatar",
+		"profile_url" : "http://sreal.socialid.vn/user/profile?id=322"
+	},
+	{
+		"title":"Hà Lê Hồng Trang đã chia sẻ bài viết của bạn",
+		"subTitle": "6h ago",
+		"thumb_url": "https://portal.rever.vn/user/2894614638028384311/avatar",
+		"profile_url" : "http://sreal.socialid.vn/user/profile?id=323"
+	},
+	{
+		"title":"Võ Kim Tấn đã chia sẻ bài viết của bạn",
+		"subTitle": "6h ago",
+		"thumb_url": "https://portal.rever.vn/user/2894614638028384311/avatar",
+		"profile_url" : "https://sreal.socialid.vn/user/profile?id=318"
+	},
+
+]
