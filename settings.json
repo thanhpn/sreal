@@ -11,21 +11,21 @@
           "id": 1,
           "title": "Cửa hàng",
           "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_1.png",
-          "url": "",
+          "url": "https://sreal.socialid.vn/voucher/wish/?id=90",
           "setting_screen": ""
         },
         {
           "id": 2,
           "title": "Đơn hàng",
           "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_2.png",
-          "url": "",
+          "url": "https://sreal.socialid.vn/order",
           "setting_screen": ""
         },
         {
           "id": 3,
-          "title": "Đội ngũ",
+          "title": "Đội nhóm",
           "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_3.png",
-          "url": "",
+          "url": "https://wallet.socialinvest.asia/member",
           "setting_screen": ""
         },
         {
@@ -39,14 +39,14 @@
           "id": 5,
           "title": "Đào tạo",
           "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_5.png",
-          "url": "",
+          "url": "https://socialtraining.vn/",
           "setting_screen": ""
         },
         {
           "id": 6,
           "title": "Đăng ký CTV",
           "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_6.png",
-          "url": "",
+          "url": "https://swallet.socialid.vn/wallet/setting",
           "setting_screen": ""
         }
       ]
@@ -60,28 +60,28 @@
           "title": "Support",
           "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_7.png",
           "url": "",
-          "setting_screen": ""
+          "setting_screen": "Support"
         },
         {
           "id": 2,
           "title": "TermOfUse",
           "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_8.png",
           "url": "",
-          "setting_screen": ""
+          "setting_screen": "TermOfUse"
         },
         {
           "id": 3,
           "title": "Setting",
           "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_9.png",
           "url": "",
-          "setting_screen": ""
+          "setting_screen": "Setting"
         },
         {
           "id": 4,
           "title": "Logout",
           "icon_url": "https://vappsmart.com/stc.vappsmart.com/vmessage/setting_10.png",
           "url": "",
-          "setting_screen": ""
+          "setting_screen": "Logout"
         }
       ]
     }

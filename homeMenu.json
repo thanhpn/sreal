@@ -7,7 +7,7 @@
 		"menus": [
 			{
 				"id": 0,
-				"title": "Dự án",
+				"title": "BĐS",
 				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_8.png",
 				"url": "https://sreal.socialid.vn/voucher"
 			},
@@ -28,18 +28,6 @@
 				"title": "Đào tạo",
 				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_11.png",
 				"url": "https://socialtraining.vn/"
-			},
-			{
-				"id": 4,
-				"title": "Đội nhóm",
-				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_group.png",
-				"url": "https://wallet.socialinvest.asia/member"
-			},
-			{
-				"id": 5,
-				"title": "KYC",
-				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_kyc.png",
-				"url": "https://wallet.socialinvest.asia/wallet/setting"
 			}
 		]
 	},
@@ -49,12 +37,7 @@
 		"title": "ĐẦU TƯ",
 		"numColumns": 4,
 		"menus": [
-			{
-				"id": 0,
-				"title": "Tài sản",
-				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_0.png",
-				"url": "https://wallet.socialinvest.asia/order"
-			},
+		
 			{
 				"id": 1,
 				"title": "Đầu tư",
@@ -78,6 +61,12 @@
 				"title": "Báo cáo",
 				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_3.png",
 				"url": "https://wallet.socialinvest.asia/member"
+			},
+			{
+				"id": 0,
+				"title": "Tài sản",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_0.png",
+				"url": "https://wallet.socialinvest.asia/order"
 			}
 		]
 	},
