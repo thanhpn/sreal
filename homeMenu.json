@@ -74,25 +74,25 @@
 			{
 				"id": 1,
 				"title": "Định giá BĐS",
-				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_19.png",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_19-1.png",
 				"url": "https://citics.vn/dinh-gia?type=nha_pho&source=nha_pho&hide_detail=1"
 			},
 			{
 				"id": 2,
 				"title": "Xem giá theo vùng",
-				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_20.png",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_20-1.png",
 				"url": "https://citics.vn/dinh-gia?type=khu_vuc&source=khu_vuc&hide_detail=1"
 			},
 			{
 				"id": 3,
 				"title": "Xem giá tuyến đường",
-				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_21.png",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_21-1.png",
 				"url": "https://citics.vn/dinh-gia?type=tuyen_duong&source=tuyen_duong&hide_detail=1"
 			},
 			{
 				"id": 0,
 				"title": "Tính toán tiền vay",
-				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_22.png",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_22-1.png",
 				"url": "https://www.bidv.com.vn/vn/premier/cong-cu-va-tien-ich/cong-cu-tinh-toan-tien-vay"
 			}
 		]
