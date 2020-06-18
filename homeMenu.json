@@ -2,7 +2,7 @@
 	{
 		"id": 2,
 		"type": "grid",
-		"title": "TIỆN ÍCH",
+		"title": "Sản phẩm/Dịch vụ",
 		"numColumns": 4,
 		"menus": [
 			{
@@ -34,7 +34,7 @@
 	{
 		"id": 1,
 		"type": "grid",
-		"title": "ĐẦU TƯ",
+		"title": "Đầu tư",
 		"numColumns": 4,
 		"menus": [
 		
@@ -65,9 +65,49 @@
 		]
 	},
 	{
+		"id": 4,
+		"type": "grid",
+		"title": "Công cụ bán hàng",
+		"numColumns": 4,
+		"menus": [
+		
+			{
+				"id": 1,
+				"title": "Định giá BĐS",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_19.png",
+				"url": "https://citics.vn/dinh-gia?type=nha_pho&source=nha_pho&hide_detail=1"
+			},
+			{
+				"id": 2,
+				"title": "Xem giá theo vùng",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_20.png",
+				"url": "https://citics.vn/dinh-gia?type=khu_vuc&source=khu_vuc&hide_detail=1"
+			},
+			{
+				"id": 3,
+				"title": "Xem giá tuyến đường",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_21.png",
+				"url": "https://citics.vn/dinh-gia?type=tuyen_duong&source=tuyen_duong&hide_detail=1"
+			},
+			{
+				"id": 0,
+				"title": "Tính toán tiền vay",
+				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_22.png",
+				"url": "https://www.bidv.com.vn/vn/premier/cong-cu-va-tien-ich/cong-cu-tinh-toan-tien-vay"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"type": "banner",
+		"title": "",
+		"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/banner_3.png",
+		"url": ""
+	},
+	{
 		"id": 3,
 		"type": "grid",
-		"title": "TIỆN ÍCH THANH TOÁN",
+		"title": "Thanh toán dễ dàng",
 		"numColumns": 4,
 		"menus": [
 			{
@@ -106,12 +146,5 @@
 				"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/icon_feat_18.png"
 			}
 		]
-	},
-	{
-		"id": 6,
-		"type": "banner",
-		"title": "",
-		"icon_url": "https://bigdroidwally.files.wordpress.com/2020/06/banner_3.png",
-		"url": ""
 	}
 ]
